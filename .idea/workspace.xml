@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8acb4558-b47b-4eca-9af7-801a3335c408" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/1/01b1d907e20dfabe7501f5e759eeb1e16a65f30c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/e/7ecdf3046b239ea66c5e235eef3d5aacf0d70b3f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/9/9975dd8c1cc1e8f2de41a876c9eb5f79a0d148aa" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/b/eb132a19946ebc14c69c4c840d3d2987338b1979" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo/src/main/java/com/niit/Demo/DemoApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo/src/main/java/com/niit/Demo/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo/src/main/java/com/niit/Demo/domain/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo/src/main/java/com/niit/Demo/filter/JwtFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo/src/main/java/com/niit/Demo/repository/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo/src/main/java/com/niit/Demo/service/GenerateToken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo/src/main/java/com/niit/Demo/service/GenerateTokenImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo/src/main/java/com/niit/Demo/service/ServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo/src/main/java/com/niit/Demo/service/UserInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo/src/test/java/com/niit/Demo/DemoApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Muzix/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Muzix/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Muzix/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Muzix/Docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Muzix/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Muzix/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Muzix/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Muzix/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Muzix/src/main/java/com/niit/Muzix/MuzixApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Muzix/src/main/java/com/niit/Muzix/controller/MuzixController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Muzix/src/main/java/com/niit/Muzix/domain/Track.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Muzix/src/main/java/com/niit/Muzix/domain/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Muzix/src/main/java/com/niit/Muzix/exception/ArtistNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Muzix/src/main/java/com/niit/Muzix/exception/MusicAlreadyExistException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Muzix/src/main/java/com/niit/Muzix/exception/MusicNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Muzix/src/main/java/com/niit/Muzix/filter/JwtFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Muzix/src/main/java/com/niit/Muzix/repository/MuzixRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Muzix/src/main/java/com/niit/Muzix/service/MuzixService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Muzix/src/main/java/com/niit/Muzix/service/MuzixServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Muzix/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Muzix/src/test/java/com/niit/Muzix/MuzixApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Muzix/src/test/java/com/niit/Muzix/controller/ControllerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Muzix/src/test/java/com/niit/Muzix/repository/RepositoryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Muzix/src/test/java/com/niit/Muzix/service/ServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker_compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2K58JBO0pajsOAsOIVy0DrQ1gTB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Philip Meshach/Backend Projects/Microservices&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Philip Meshach\Backend Projects\Microservices" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Docker.docker_compose.yml: Compose Deployment">
+    <configuration name="DemoApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.niit.Demo.DemoApplication" />
+      <module name="Demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.niit.Demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MuzixApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.niit.Muzix.MuzixApplication" />
+      <module name="Muzix" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.niit.Muzix.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="docker-deploy" factoryName="docker-compose.yml" temporary="true">
+      <deployment type="docker-compose.yml">
+        <settings />
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="docker-compose.yml: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="sourceFilePath" value="docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="docker_compose.yml: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="sourceFilePath" value="docker_compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Docker.docker_compose.yml: Compose Deployment" />
+        <item itemvalue="Application.MuzixApplication" />
+        <item itemvalue="Application.DemoApplication" />
+        <item itemvalue="Docker.docker-compose.yml: Compose Deployment" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8acb4558-b47b-4eca-9af7-801a3335c408" name="Changes" comment="" />
+      <created>1673253011012</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673253011012</updated>
+    </task>
+    <servers />
+  </component>
+</project>
